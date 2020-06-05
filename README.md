@@ -1,4 +1,3 @@
-test [go](http://stackoverflow.com){:target="_blank"}
 # Projet Serveur Photo
 ***
 L'application ServeurPhoto est un appplication Java dédiée à la mise en ligne, à la sauvegarde et à la visualisation de photos par des utilisateur·rice·s.
