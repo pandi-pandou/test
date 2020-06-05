@@ -27,13 +27,13 @@ Il n'y aucun pré-requis.
 Nous avons conçu cette application en réalisant une analyse des besoins
 
 ## Use case
-![](image.png)
+![](http://tidusdotexe.fr/projet%20flauzac/use%20case.PNG)
 
 ## Analyse Merise MCD
-![](image.png)
+![](http://tidusdotexe.fr/projet%20flauzac/mcd.PNG)
 
 ## Diagramme de classe UML
-![](image.png)
+![](http://tidusdotexe.fr/projet%20flauzac/diag.PNG)
 
 # Charte graphique
 * ![#deb0dd](https://placehold.it/15/deb0dd/000000?text=+)
