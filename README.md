@@ -43,6 +43,7 @@ Nous avons conçu cette application en réalisant une analyse des besoins
 * ![#5e6b3b](https://placehold.it/15/5e6b3b/000000?text=+)
 
 # Présentation de l'application 
+(Vidéo)
 [![Vidéo de présention](https://img.youtube.com/vi/43Cntxb5EN8/maxresdefault.jpg)](https://www.youtube.com/watch?v=43Cntxb5EN8&feature=youtu.be)
 
 # Fonctionnement de l'application
@@ -63,6 +64,14 @@ La vue du profil permet à l'utilisateur·rice de visualiser ses propres photos,
 
 ## Mettre une photo en ligne
 Lors de la mise en ligne d'une photo, celle-ci doit être importée en choisisant un fichier via le bouton "Choisir une photo". Il est également possible de changer le nom de la photo, d'y ajouter un lieu, une description ainsi que des tags qui permettront de référencer la photo.
+
+# Côté technique 
+
+## Base de données
+(vidéo)
+[![Vidéo BDDhttps://img.youtube.com/vi/Lc_GPG0_r-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Lc_GPG0_r-0&feature=youtu.be)
+
+
 
 # Suite éventuelle
 ***
