@@ -42,6 +42,9 @@ Nous avons conçu cette application en réalisant une analyse des besoins
 * ![#593951](https://placehold.it/15/593951/000000?text=+)
 * ![#5e6b3b](https://placehold.it/15/5e6b3b/000000?text=+)
 
+# Présentation de l'application 
+[![Vidéo de présention](https://img.youtube.com/vi/43Cntxb5EN8/maxresdefault.jpg)](https://www.youtube.com/watch?v=43Cntxb5EN8&feature=youtu.be)
+
 # Fonctionnement de l'application
 ***
 Il faut dans un premier temps lancer le projet serveur, pour autoriser ensuite une connexion client lors du lancement de        l'application
