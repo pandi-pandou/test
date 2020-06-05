@@ -56,7 +56,7 @@ L'utilisateur·rice peut ensuite se connecter, ou s'inscrire. L'administrateur·
 Il faut pour cela rentrer un nom, un prénom, une date de naissance, un pseudonyme et un mot de passe, qui sera crypté.
 
 ## Page d'accueil
-La page d'accueil liste toutes les photos que les utilisateur·rice·s auront mises en ligne en idenquant une visibilité publique. Cette page contient également un bouton vers le profil de l'utilisateur·rice, et un autre afin de mettre en ligne une photo.
+La page d'accueil liste toutes les photos que les utilisateur·rice·s auront mises en ligne en idiquant une visibilité publique. Cette page contient également un bouton vers le profil de l'utilisateur·rice, et un autre afin de mettre en ligne une photo.
 
 Une barre de recherche permet à l'heure actuelle de rechercher par le nom d'une photo publique.
 
@@ -73,9 +73,9 @@ Lors de la mise en ligne d'une photo, celle-ci doit être importée en choisisan
 [![Vidéo BDD](https://img.youtube.com/vi/Lc_GPG0_r-0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Lc_GPG0_r-0&feature=youtu.be)
 
 ## API
-Elle est composée de méthodes permettant l'envoi et la réception de données au serveur. Certaines actions basiques possèdent leur propre méthode comme la création d'un utilisateur dans la base, ou encore l'upload de photos. Une méthode générique appelée "getQuery" permet de créer une requete avec divers paramètres possibles. Cette méthode retourne un Hashtable avec le libellé de la colonne en clé et sa valeur associée.
+Elle est composée de méthodes permettant l'envoi et la réception de données au serveur. Certaines actions basiques possèdent leur propre méthode comme la création d'un utilisateur dans la base, ou encore l'upload de photos. Une méthode générique appelée "getQuery" permet de créer une requête avec divers paramètres possibles. Cette méthode retourne un Hashtable avec le libellé de la colonne en clé et sa valeur associée.
 
-Dans le futur, nous pourrions faire évoluer cette API en web (si l'interdiction se levait) pour plus de facilité, performance et utilité; avec l'utilisation du JSON. 
+Dans le futur, nous pourrions faire évoluer cette API en web pour plus de facilité, performance et utilité; avec l'utilisation du JSON. 
 
 ## Hashage
 L'utilisation de mots de passe nous impose de hacher ces derniers. Le choix s'est porté sur PBKDF2WithHmacSHA1, étant donné que beaucoup d'algorithme de hashage ne sont plus fiables (MD5, SHA1, ...). On utilise également un sel avec cet algorithme de hachage. La classe est peu complexe, ne comptant qu'une méthode static permettant de retourner un tableau de byte depuis une string donnée en paramètre.
@@ -83,4 +83,5 @@ L'utilisation de mots de passe nous impose de hacher ces derniers. Le choix s'es
 # Suite éventuelle
 ***
 * Gérer un système de relation "Amis" entre utilisateur·rice·s
-* Recherche par tags
+* Gestion de l'utilsateur·rice administrateur·rice et amélioration du panneau de gestion du serveur
+* 
